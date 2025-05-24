@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "825994411482",
+    "project_id": "techify-91dc3",
+    "storage_bucket": "techify-91dc3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825994411482:android:911d07101cc93c1ddfd4e3",
+        "android_client_info": {
+          "package_name": "com.example.techify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL9vLy7hP4HCxMTVzGwH0HvG_9xcCyPuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
