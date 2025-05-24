@@ -6,7 +6,7 @@
 
 Get the latest stable version of our app:
 
-[![Download APK](https://img.shields.io/badge/Download%20APK-v1.0.0-blue?style=for-the-badge&logo=android)](https://github.com/fahad1084/your-repo-name/releases/latest/download/app-release.apk)
+[[![Download APK](https://img.shields.io/badge/Download%20APK-v1.0.0-blue?style=for-the-badge&logo=android)](https://github.com/fahad1084/your-repo-name/releases/latest/download/app-release.apk)](https://github.com/fahad1084/techify/releases/download/v1.0.0/MobileAccessories_v1.0.0.apk)
 
 ---
 
