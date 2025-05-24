@@ -2,7 +2,11 @@
   
 *A Flutter-based e-commerce app for seamless shopping of mobile/home accessories.*  
 
-[![GitHub Release](https://img.shields.io/github/v/release/fahad1084/Mobile-Accessories-Delivery-App?include_prereleases)](https://github.com/fahad1084/Mobile-Accessories-Delivery-App/releases)  
+## 📲 Download Latest APK
+
+Get the latest stable version of our app:
+
+[![Download APK](https://img.shields.io/badge/Download%20APK-v1.0.0-blue?style=for-the-badge&logo=android)](https://github.com/fahad1084/your-repo-name/releases/latest/download/app-release.apk)
 
 ---
 
